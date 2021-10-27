@@ -1,4 +1,5 @@
 
+# Tutorial de uso do bot 
 ## **Requisitos Mínimos para utilização do Discord**
 
 A aplicação desktop está disponível para Windows 7 ou mais atual e Mac OS 10.10 ou mais atual.
@@ -73,5 +74,6 @@ Para ver a lista completa de comandos disponíveis, digite “.ajuda”.
 - **.almoco**: Registra saída para o almoço;
 - **.almocov**: Registra o retorno almoço;
 - **.saida**: Registra sua saída do expediente.
+- **.ajuda**: Exibe a lista de comandos possíveis do bot.
 
 *********
